@@ -1,1 +1,3 @@
-# Fake_News
+# Abstract
+
+The prevalence of fake news in today's information age has raised concerns about the accuracy and reliability of news articles. Machine learning algorithms have emerged as practical tools for automatically identifying and categorizing fake news, aiding the fight against misinformation. This report presents a detailed analysis of a fake news detection system implemented using machine learning techniques. The system leverages a labelled dataset comprising real and fake news articles to train and evaluate models, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. Additionally, the report provides a user-friendly testing function that enables users to input news articles and obtain predictions from multiple models. This research contributes to the ongoing efforts in combatting misinformation and emphasizes the importance of automated systems for ensuring the integrity of news sources.
